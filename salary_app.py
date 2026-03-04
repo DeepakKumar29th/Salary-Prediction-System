@@ -184,7 +184,7 @@ model = train_model()
 
 # ─── UI ──────────────────────────────────────────────────────────────────────
 st.markdown("<h2 style='text-align:center; margin-bottom:4px;'>💼 Salary Prediction System</h2>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center; color:grey; margin-bottom:20px;'>Indian Job Market — Annual CTC Estimator (2026)</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color:grey; margin-bottom:20px;'>Indian Job Market — Annual CTC Estimator</p>", unsafe_allow_html=True)
 st.divider()
 
 col1, col2 = st.columns(2)
