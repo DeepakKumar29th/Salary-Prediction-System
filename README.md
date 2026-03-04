@@ -6,13 +6,15 @@ A machine learning web application that predicts annual CTC for professionals in
 
 ## 🌐 Live Demo
 
-> *(Add your Streamlit link here after deployment)*
+> https://salary-predict-system.streamlit.app/#salary-prediction-system
 
 ---
 
 ## 📸 Preview
 
-> *(Add a screenshot here)*
+> <img width="1183" height="797" alt="image" src="https://github.com/user-attachments/assets/2403c377-cf49-4df8-a863-bb654ec72c92" />
+
+<img width="1071" height="861" alt="image" src="https://github.com/user-attachments/assets/4648d21c-db8a-4fa9-a822-443adb56f5de" />
 
 ---
 
